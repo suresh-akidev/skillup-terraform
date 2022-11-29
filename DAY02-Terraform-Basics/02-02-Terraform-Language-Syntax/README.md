@@ -38,6 +38,9 @@ resource "aws_instance" "ec2demo" { # BLOCK
 - [Resource: AWS Instance](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance)
 - [Resource: AWS Instance Argument Reference](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#argument-reference)
 - [Resource: AWS Instance Attribute Reference](https://registry.terraform.io/providers/hashicorp/aws/latest/docs/resources/instance#attributes-reference)
+- [Resource: Azure Virtual machine](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine#disclaimers)
+- [Resource: Azure Argument Reference](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine#argument-reference)
+- [Resource: Azure VM Attribute Reference](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/virtual_machine#attributes-reference)
 - [Resource: Meta-Arguments](https://www.terraform.io/docs/language/meta-arguments/depends_on.html)
 
 ## Step-04: Understand about Terraform Top-Level Blocks
