@@ -1,5 +1,5 @@
 
-resource "aws_instance" "my-ec2-vm-01" {
+resource "aws_instance" "my-ec2-vm-03" {
   ami           = "ami-062df10d14676e201"
   instance_type = var.instance_type
   key_name      = "ec2_key_pair"

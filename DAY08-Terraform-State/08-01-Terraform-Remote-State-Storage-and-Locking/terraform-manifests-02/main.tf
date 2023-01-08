@@ -56,4 +56,3 @@ resource "azurerm_network_interface_security_group_association" "name" {
   network_interface_id = azurerm_network_interface.name.id
   network_security_group_id = azurerm_network_security_group.terra-nsg.id
 }
-
